@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://trevor-r-allen.github.io/blogsitemap.xml
